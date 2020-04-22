@@ -1,3 +1,3 @@
 # issuecb930
 
-930 - cb scanning
+930 - cb scanning - history
